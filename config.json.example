@@ -1,0 +1,6 @@
+{
+    "genius_api_key": "YOUR_GENIUS_API_KEY_HERE",
+    "bot_token":"YOUR_BOT_TOKEN_HERE",
+    "user_id": "YOUR_USER_ID_HERE",
+    "server_id": "YOUR_SERVER_ID_HERE"
+}
